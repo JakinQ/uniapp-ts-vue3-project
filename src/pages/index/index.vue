@@ -17,7 +17,14 @@
     </view>
     <view class="index-list4">
       <view>
-        
+        <view> <view class="icon iconfont icon-icon_xiaolian-main"></view>10</view>
+        <view> <view class="icon iconfont icon-kulian"></view>10</view>
+
+      </view>
+      <view>
+        <view> <view class="icon iconfont icon-pinglun1"></view>10</view>
+        <view> <view class="icon iconfont icon-zhuanfa"></view>10</view>
+
       </view>
     </view>
     </view>

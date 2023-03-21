@@ -1,10 +1,26 @@
 <template>
-  <view class="content">
-    <image class="logo" src="/static/logo.png" />
-    <view class="text-area">
-      <text class="title">{{ title }}</text>
+  <view class="index-list">
+   
+      <view class="index-list1">
+		  <image src="@/static/demo/userpic/1.jpg" mode="widthFix" lazy-load></image>
+      昵称
+      <view >
+        <view class="icon iconfont icon-zengjia"></view>关注
+      </view>
+	  </view>
+    <view class="index-list2">标题</view>
+    <view class="index-list3">
+      <image
+        src="@/static/demo/datapic/1.jpg"
+        mode="widthFix" lazy-load
+      />
     </view>
-  </view>
+    <view class="index-list4">
+      <view>
+        
+      </view>
+    </view>
+    </view>
 </template>
 
 <script setup lang="ts">
